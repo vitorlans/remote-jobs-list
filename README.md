@@ -73,6 +73,7 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [CodementorX](https://www.codementor.io/developers) |
 | ❇️ | [Codeable](https://codeable.io/) |
+| ❇️ | [digitalminds.io](https://www.digitalminds.io/careers/) |
 | ❇️ | [Fiverr](https://www.fiverr.com/) |
 | ❇️ | [Freelancer](https://www.freelancer.com/) |
 | ❇️ | [GunIO](https://www.gun.io/#hacker) |
